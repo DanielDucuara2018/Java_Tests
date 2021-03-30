@@ -1,0 +1,3 @@
+# Static Attribute Test
+
+This test allows to understand how a static attribute and class behave. A static class is basically the same as a non-static class, with one difference: a static class cannot be instantiated. In other words, you cannot use the new operator to create a variable of type class. Since there are no instance variables (static attributes), you access the members of a static class using the class name itself. 
